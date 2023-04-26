@@ -1,31 +1,39 @@
 {
     "Users": [
     {
+    "id": "1",
     "nome": "Lucas",
     "login": "lucc4s228",
     "senha": "lucas12345",
-    "saldo": 16859.35
+    "saldo": 16859.35,
+    "taxa_recebiveis":0
     },
 
     {
+    "id": "2",
     "nome": "Luan",
     "login": "luann321",
     "senha": "luan7890",
-    "saldo": 10523.12
+    "saldo": 10523.12,
+    "taxa_recebiveis":0
     },
 
     {
+    "id": "3",
     "nome": "Arthur",
     "login": "arthur_21",
     "senha": "art1234",
-    "saldo": 9387.45
+    "saldo": 2325.78,
+    "taxa_recebiveis":0
     },
     
     {
+    "id": "4",
     "nome": "Vinicius",
     "login": "vinix",
     "senha": "vini5678",
-    "saldo": 12030.50
+    "saldo": 3598.98,
+    "taxa_recebiveis":0
     }
     ]
     }

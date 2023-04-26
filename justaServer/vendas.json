@@ -3,7 +3,7 @@
         {
             "mes": "janeiro",
             "vendas": 5,
-            "valor": 12350.45
+            "valor": 5350.45
         },
         {
             "mes": "fevereiro",
@@ -52,13 +52,13 @@
         },
         {
             "mes": "novembro",
-            "vendas": 7,
-            "valor": 10780.34
+            "vendas": 2,
+            "valor": 1780.34
         },
         {
             "mes": "dezembro",
             "vendas": 6,
-            "valor": 12230.30
+            "valor": 7230.30
         }
     ],
 
@@ -95,12 +95,12 @@
         },
         {
             "mes": "julho",
-            "vendas": 6,
+            "vendas": 1,
             "valor": 1009.09
         },
         {
             "mes": "agosto",
-            "vendas": 10,
+            "vendas": 8,
             "valor": 9635
         },
         {
@@ -127,64 +127,64 @@
 
     "VendasArthur": [
         {
-        "mes": "janeiro",
-        "vendas": 6,
-        "valor": 11987.65
+            "mes": "janeiro",
+            "vendas": 6,
+            "valor": 11987.65
         },
         {
-        "mes": "fevereiro",
-        "vendas": 9,
-        "valor": 10453.78
+            "mes": "fevereiro",
+            "vendas": 9,
+            "valor": 10453.78
         },
         {
-        "mes": "março",
-        "vendas": 8,
-        "valor": 8754.12
+            "mes": "março",
+            "vendas": 8,
+            "valor": 8754.12
         },
         {
-        "mes": "abril",
-        "vendas": 2,
-        "valor": 3667.89
+            "mes": "abril",
+            "vendas": 2,
+            "valor": 3667.89
         },
         {
-        "mes": "maio",
-        "vendas": 7,
-        "valor": 4732.56
+            "mes": "maio",
+            "vendas": 7,
+            "valor": 4732.56
         },
         {
-        "mes": "junho",
-        "vendas": 3,
-        "valor": 2011.23
+            "mes": "junho",
+            "vendas": 3,
+            "valor": 2011.23
         },
         {
-        "mes": "julho",
-        "vendas": 8,
-        "valor": 10098.76
+            "mes": "julho",
+            "vendas": 8,
+            "valor": 10098.76
         },
         {
-        "mes": "agosto",
-        "vendas": 10,
-        "valor": 9435.89
+            "mes": "agosto",
+            "vendas": 10,
+            "valor": 9435.89
         },
         {
-        "mes": "setembro",
-        "vendas": 12,
-        "valor": 9125.43
+            "mes": "setembro",
+            "vendas": 12,
+            "valor": 9125.43
         },
         {
-        "mes": "outubro",
-        "vendas": 9,
-        "valor": 9765.32
+            "mes": "outubro",
+            "vendas": 9,
+            "valor": 9765.32
         },
         {
-        "mes": "novembro",
-        "vendas": 8,
-        "valor": 10234.56
+            "mes": "novembro",
+            "vendas": 17,
+            "valor": 13234.56
         },
         {
-        "mes": "dezembro",
-        "vendas": 7,
-        "valor": 11876.54
+            "mes": "dezembro",
+            "vendas": 7,
+            "valor": 6876.54
         }
         ],
 
@@ -241,8 +241,8 @@
             },
             {
             "mes": "novembro",
-            "vendas": 8,
-            "valor": 10234.12
+            "vendas": 12,
+            "valor": 13234.12
             },
             {
             "mes": "dezembro",
